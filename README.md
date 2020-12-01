@@ -1,6 +1,6 @@
 # The Old Master Said
 
-###About the Project
+#About the Project
 
 A database API of the Laozi (Dao De Jing) that lets you compare English translations and search by text.
 

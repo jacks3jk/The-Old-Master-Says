@@ -6,7 +6,7 @@ public class ChapterText {
     private int chapterNumber;
     private String chapterText;
     private String author;
-    private int translationId;
+    private int textId;
 
 
 
@@ -18,12 +18,12 @@ public class ChapterText {
         this.author = author;
     }
 
-    public int getTranslationId() {
-        return translationId;
+    public int getTextId() {
+        return textId;
     }
 
-    public void setTranslationId(int translationId) {
-        this.translationId = translationId;
+    public void setTextId(int textId) {
+        this.textId = textId;
     }
 
     public int getChapterNumber() {

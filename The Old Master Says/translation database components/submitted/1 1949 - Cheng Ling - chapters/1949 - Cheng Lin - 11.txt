@@ -1,8 +1,1 @@
-11
-Thirty spokes share the space of one nave.
-The substance and the void are both essential to the usefulness of a carriage.
-Clay is moulded to make vessels.
-The substance and the void are both essential to the usefulness of a vessel.
-Doors and windows are hewn in a house.
-The substance and the void are both essential to the usefulness of a house.
-Thus, the presence of something may prove beneficial, just as the absence of something may prove useful.
+1	11	Thirty spokes share the space of one nave. The substance and the void are both essential to the usefulness of a carriage. Clay is moulded to make vessels. The substance and the void are both essential to the usefulness of a vessel. Doors and windows are hewn in a house. The substance and the void are both essential to the usefulness of a house. Thus, the presence of something may prove beneficial, just as the absence of something may prove useful.

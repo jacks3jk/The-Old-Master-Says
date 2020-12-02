@@ -1,43 +1,27 @@
 DROP TABLE IF EXISTS translation CASCADE;
-DROP TABLE IF EXISTS full_text CASCADE;
 DROP TABLE IF EXISTS chapter_text CASCADE;
 
-DROP SEQUENCE IF EXISTS translation_translation_id_seq;
-DROP SEQUENCE IF EXISTS text_text_id_seq;
+DROP SEQUENCE IF EXISTS translation_text_id_seq;
 
-CREATE SEQUENCE translation_translation_id_seq
+CREATE SEQUENCE translation_text_id_seq
 INCREMENT BY 1
 NO MAXVALUE
 NO MINVALUE
 CACHE 1;
 
 CREATE TABLE translation (
-translation_id serial,
+text_id serial,
 author varchar(50) NOT NULL,                    --name of translator(s)
 publish_year integer NOT NULL,                  --publication year
-CONSTRAINT pk_translation_translation_id PRIMARY KEY (translation_id)
-);
-
-CREATE SEQUENCE full_text_text_id_seq
-INCREMENT BY 1
-NO MAXVALUE
-NO MINVALUE
-CACHE 1;
-
-CREATE TABLE full_text (
-text_id serial,
-translation_id integer NOT NULL,
-full_text text NOT NULL,
-full_text_tokens TSVECTOR,
-CONSTRAINT pk_text_text_id PRIMARY KEY (text_id),
-CONSTRAINT fk_translation_translation_id FOREIGN KEY (translation_id) REFERENCES translation (translation_id)
+CONSTRAINT pk_translation_text_id PRIMARY KEY (text_id)
 );
 
 CREATE TABLE chapter_text (
 text_id integer NOT NULL,
 chapter integer NOT NULL,
 chapter_text text NOT NULL,
-CONSTRAINT fk_full_text_text_id FOREIGN KEY (text_id) REFERENCES full_text (text_id)
+chapter_text_tokens TSVECTOR,
+CONSTRAINT fk_chapter_text_text_id FOREIGN KEY (text_id) REFERENCES translation (text_id)
 );
 
 

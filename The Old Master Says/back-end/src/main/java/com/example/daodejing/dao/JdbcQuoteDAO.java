@@ -22,11 +22,11 @@ public class JdbcQuoteDAO implements QuoteDAO{
     public List<Translation> returnAllTranslations() {
         List<Translation> result = new ArrayList<>();
         SqlRowSet rowSet = jdbcTemplate.queryForRowSet(
-                "SELECT translation_id, author, publish_year " +
+                "SELECT text_id, author, publish_year " +
                         "FROM translation;");
         while (rowSet.next()) {
             Translation translation = new Translation();
-            translation.setTranslationId(rowSet.getInt("translation_id"));
+            translation.setTranslationId(rowSet.getInt("text_id"));
             translation.setAuthor(rowSet.getString("author"));
             translation.setPublishYear(rowSet.getInt("publish_year"));
             result.add(translation);
@@ -38,14 +38,14 @@ public class JdbcQuoteDAO implements QuoteDAO{
     public List<Quote> returnAllMatching(String searchText) {
         List<Quote> result = new ArrayList<>();
         Quote userQuote = searchToQuote(searchText);
-        SqlRowSet rowSet = jdbcTemplate.queryForRowSet("SELECT trans.author, t.full_text " +
-                "FROM full_text AS t JOIN translation AS trans ON t.translation_id = trans.translation_id " +
-                "WHERE full_text_tokens @@ to_tsquery(?);",
+        SqlRowSet rowSet = jdbcTemplate.queryForRowSet("SELECT trans.author, t.chapter_text " +
+                "FROM chapter_text AS t JOIN translation AS trans ON t.text_id = trans.text_id " +
+                "WHERE chapter_text_tokens @@ to_tsquery(?);",
                 userQuote.getFirstWord() + " <" + userQuote.getMiddleLength() + "> " + userQuote.getLastWord());
         while (rowSet.next()) {
             Quote newQuote = new Quote();
             newQuote.setTranslator(rowSet.getString("author"));
-            newQuote.setFullText(rowSet.getString("full_text"));
+            newQuote.setFullText(rowSet.getString("chapter_text"));
             result.add(newQuote);
         }
         return result;

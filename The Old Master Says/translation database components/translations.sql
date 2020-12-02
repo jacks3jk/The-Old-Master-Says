@@ -34,11 +34,9 @@ VALUES ('Cheng Lin', 1949), ('Raymond B Blakney', 1955), ('Archie J Bahm', 1958)
 --Text table
 
 --Queries
-UPDATE full_text AS t1
-SET full_text_tokens = to_tsvector(t1.full_text);
+UPDATE chapter_text AS t1
+SET chapter_text_tokens = to_tsvector(t1.chapter_text);
 
-SELECT text_id, full_text FROM full_text
-WHERE full_text_tokens @@ to_tsquery('truth');
 
 
 SELECT * FROM full_text;
@@ -57,12 +55,14 @@ FROM full_text AS t JOIN translation AS trans ON t.translation_id = trans.transl
 WHERE full_text_tokens @@ to_tsquery('everlasting <8> name'); -- lines 68-74 are contradicting each other
 
 
-SELECT text_id, full_text FROM full_text
-WHERE full_text_tokens @@ to_tsquery('these <9> origin');
+SELECT text_id, chapter, chapter_text FROM chapter_text
+WHERE chapter_text_tokens @@ to_tsquery('these <9> origin');
 
 
 SELECT ct.chapter, t.author, t.translation_id, ct.chapter_text
 FROM chapter_text AS ct
 JOIN full_text AS ft ON ct.text_id = ft.text_id
 JOIN translation AS t ON ft.translation_id = t.translation_id
-WHERE ct.chapter = 1;
+WHERE ct.chapter = 1;
+
+

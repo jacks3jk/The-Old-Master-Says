@@ -43,7 +43,7 @@ SELECT * FROM full_text;
 SELECT * FROM translation;
 SELECT * FROM chapter_text;
 
-SELECT * FROM ts_stat('SELECT full_text_tokens FROM text') --write SQL params here for which text, author, etc.
+SELECT * FROM ts_stat('SELECT chapter_text_tokens FROM chapter_text') --write SQL params here for which text, author, etc.
 WHERE ts_stat.word = 'truth'; --only does lowercase
 
 SELECT trans.author, t.full_text
@@ -65,4 +65,15 @@ JOIN full_text AS ft ON ct.text_id = ft.text_id
 JOIN translation AS t ON ft.translation_id = t.translation_id
 WHERE ct.chapter = 1;
 
+
+
+SELECT * FROM chapter_text ORDER BY text_id, chapter;
+
+SELECT text_id, chapter, chapter_text FROM chapter_text
+WHERE chapter_text_tokens @@ to_tsquery('being <2> loved');
+
+
+SELECT *
+FROM ts_stat('SELECT chapter_text_tokens FROM chapter_text WHERE text_id = 2')
+WHERE ts_stat.word = 'way';
 

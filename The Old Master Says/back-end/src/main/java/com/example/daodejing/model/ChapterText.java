@@ -7,8 +7,15 @@ public class ChapterText {
     private String chapterText;
     private String author;
     private int textId;
+    private int publishYear;
 
+    public int getPublishYear() {
+        return publishYear;
+    }
 
+    public void setPublishYear(int publishYear) {
+        this.publishYear = publishYear;
+    }
 
     public String getAuthor() {
         return author;

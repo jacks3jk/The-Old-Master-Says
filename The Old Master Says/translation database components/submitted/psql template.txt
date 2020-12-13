@@ -1,0 +1,1 @@
+\copy chapter_text(text_id, chapter, chapter_text) FROM 'input template.txt'

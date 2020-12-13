@@ -8,14 +8,23 @@ public class Quote {
     private String lastWord;
     private int middleLength;
     private String translator;
-    private String fullText;
+    private String chapterText;
+    private int chapterNumber;
 
-    public String getFullText() {
-        return fullText;
+    public int getChapterNumber() {
+        return chapterNumber;
     }
 
-    public void setFullText(String fullText) {
-        this.fullText = fullText;
+    public void setChapterNumber(int chapterNumber) {
+        this.chapterNumber = chapterNumber;
+    }
+
+    public String getChapterText() {
+        return chapterText;
+    }
+
+    public void setChapterText(String chapterText) {
+        this.chapterText = chapterText;
     }
 
     public String getTranslator() {

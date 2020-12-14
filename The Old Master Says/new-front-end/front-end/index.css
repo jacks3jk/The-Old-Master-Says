@@ -1,0 +1,59 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 100vh;
+	width: 100vw;
+	margin: 0;
+	background-color: rgba(163, 119, 7, 0.767);
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-areas: 
+		"laozi	right"
+		"laozi	right";
+	}
+	
+
+#left-half {
+	grid-area: laozi;
+	
+}
+
+div img {
+	height: 100%;
+	
+
+	
+}
+
+#right-half {
+	grid-area: right;
+	display: flex;
+	flex-direction: column;
+}
+
+h1 {
+	font-size: 200px;
+	margin-left: -100px;
+	font-family: 'Philosopher', sans-serif;
+}
+
+#form textarea {
+	width: 100%;
+	/* padding: 160px 20px; */
+	margin: 8px 0;
+	box-sizing: border-box;
+}
+
+label {
+	font-family: 'Philosopher', sans-serif;
+	font-size: 100px;
+}
+
+#form {
+	display: flex;
+	flex-direction: column;
+}

@@ -1,6 +1,7 @@
+// @ts-nocheck
 import '@babel/polyfill'
 import 'mutationobserver-shim'
-// @ts-nocheck
+
 
 import Vue from 'vue'
 import App from './App.vue'

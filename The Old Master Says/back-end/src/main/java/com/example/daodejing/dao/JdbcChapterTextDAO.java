@@ -22,7 +22,7 @@ public class JdbcChapterTextDAO implements ChapterTextDAO {
     @Override
     public List<ChapterText> returnAllChapters(int chapterNumber) {
         List<ChapterText> result = new ArrayList<>();
-        SqlRowSet rowSet = jdbcTemplate.queryForRowSet("SELECT ct.chapter, ct.chapter_text, t.author, t.text_id " +
+        SqlRowSet rowSet = jdbcTemplate.queryForRowSet("SELECT ct.chapter, ct.chapter_text, t.author, t.text_id, t.publish_year  " +
                 "FROM chapter_text AS ct " +
                 "JOIN translation AS t ON ct.text_id = t.text_id " +
                 "WHERE ct.chapter = ?;", chapterNumber);
@@ -32,6 +32,7 @@ public class JdbcChapterTextDAO implements ChapterTextDAO {
             chapterText.setChapterNumber(rowSet.getInt("chapter"));
             chapterText.setChapterText(rowSet.getString("chapter_text"));
             chapterText.setTextId(rowSet.getInt("text_id"));
+            chapterText.setPublishYear(rowSet.getInt("publish_year"));
             result.add(chapterText);
         }
         return result;
@@ -85,7 +86,7 @@ public class JdbcChapterTextDAO implements ChapterTextDAO {
 
     private Quote searchToQuote (String searchText) {
         Quote result = new Quote();
-        String firstWord = searchText.substring(0, searchText.indexOf(' '));
+        String firstWord = searchText.substring(0, searchText.indexOf(' ')); //check for space in request, if no spaces just one word
         result.setFirstWord(firstWord);
         String lastWord = searchText.substring(searchText.lastIndexOf(' '));
         result.setLastWord(lastWord);

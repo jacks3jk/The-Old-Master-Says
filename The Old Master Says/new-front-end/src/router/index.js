@@ -3,6 +3,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '../views/Home.vue'
+import Chapters from '@/views/Chapters'
 
 
 Vue.use(Router)
@@ -24,7 +25,18 @@ const router = new Router({
       path: '/',
       name: 'home',
       component: Home,
-    }
+      meta: {
+        pageTitle: 'The Old Master Says'
+      }
+    },
+    {
+      path: '/chapter',
+      name: 'chapters',
+      component: Chapters,
+      meta: {
+        pageTitle: 'Results'
+      }
+    },
   ]
 })
 

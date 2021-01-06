@@ -5,30 +5,21 @@
       <div id="title">
         <h1>The Old Master Said</h1>
       </div>
-      <div id="box">
-        <h2>Please insert an English quote form the Daodejing here:</h2>
-        <textarea id="input" name="input" rows="20" cols="100" />
-        <div></div>
-        <button type="button">Submit</button>
-        <div></div>
-        <input type="text" id="chapters" name="chapters" />
-        <button type="button">Check Chapter</button>
-        <h3>
-          You may also choose a chapter, here, and compare all the English
-          versions of that chapter found in our database.
-        </h3>
-      </div>
+      <search-quote></search-quote>
     </div>
   </div>
 </template>
 
 <script>
-// import titleText from "@/components/TitleText.vue";
+import searchQuote from "@/components/SearchQuote.vue";
 
 export default {
-  components: {},
+  components: {
+    searchQuote,
+  },
 };
 </script>
+
 
 <style>
 #home {

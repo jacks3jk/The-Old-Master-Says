@@ -6,7 +6,6 @@
 
 <style>
 
-@import url('https://fonts.gstatic.com');
 @import url('https://fonts.googleapis.com/css2?family=Philosopher:wght@700&display=swap');
 
 #app {

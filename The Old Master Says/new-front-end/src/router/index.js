@@ -3,7 +3,8 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '../views/Home.vue'
-import Chapters from '@/views/Chapters'
+import Chapters from '@/views/Chapters.vue'
+import Result from '@/views/Result.vue'
 
 
 Vue.use(Router)
@@ -34,7 +35,15 @@ const router = new Router({
       name: 'chapters',
       component: Chapters,
       meta: {
-        pageTitle: 'Results'
+        pageTitle: 'Chapters'
+      }
+    },
+    {
+      path: '/result',
+      name: 'result',
+      component: Result,
+      meta: {
+        pageTitle: 'Result'
       }
     },
   ]

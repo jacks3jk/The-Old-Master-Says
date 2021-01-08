@@ -3,7 +3,7 @@
     <div v-for="chapter in chaptersList" v-bind:key="chapter.textId">
         <div>
             <h1>{{chapter.author}}</h1>
-            <h2>{{chapter.publishYear}}</h2>
+            <p>{{chapter.publishYear}}</p>
            <h3>{{chapter.chapterText}}</h3> 
         </div>
       

@@ -1,0 +1,158 @@
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, aXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, bXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, cXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, dXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, eXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, fXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, gXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, hXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, iXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, jXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, kXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, lXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, mXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, oXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, pXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, qXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, rXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, sXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, tXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, uXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, vXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, wXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, xXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, yXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, zXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, aaXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, bbXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, ccXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, ddXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, eeXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, ffXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, ggXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, hhXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, iiXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, jjXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, kkXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, llXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, mmXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, nnXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, ooXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, ppXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, qqXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, rrXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, ssXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, ttXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, uuXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, vvXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, wwXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, xxXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, yyXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, zzXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, aaaXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, bbbXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, cccXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, dddXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, eeeXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, fffXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, gggXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, hhhXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, iiiXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, jjjXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, kkkXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, lllXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, mmmXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, nnnXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, oooXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, pppXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, qqqXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, rrrXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, sssXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, tttXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, uuuXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, vvvXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, wwwXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, xxxXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, yyyXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, zzzXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, aaaaXX,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (IDXX, bbbbXX,  '');

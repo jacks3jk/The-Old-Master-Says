@@ -3,19 +3,22 @@
     <form v-on:submit.prevent="searchQuote">
       <div id="box">
         <h2>Please insert an English quote form the Daodejing here:</h2>
-        <textarea id="input" name="inputText" rows="20" cols="100" v-model="newQuote.quote" />
+
+        
+        <textarea id="input" name="inputText" rows="20" cols="100" v-model="newQuote.searchText" />
         
         <div>
         </div>
 
-        <button v-on:click.prevent="searchQuote" type="button">Check Quote</button>
+        <!-- <router-link v-on:click="setText(newQuote.searchText)" v-bind:to="{name: 'result'}">Check Quote</router-link> -->
+        <button type="button" v-on:click="setText(newQuote.searchText)">Submit</button>
 
         <div>
         </div>
 
         <input v-model="chapter.chapterNumber" type="text" id="chapters" name="chapters" />
-        <!-- <button v-on:click="setChapters(chapter.chapterNumber)" type="button">Check Chapter</button> -->
-        <router-link v-on:click="setChapters(chapter.chapterNumber)" v-bind:to="{name: 'chapters'}" tag="button">Check Chapters</router-link>
+        <button v-on:click="setChapters(chapter.chapterNumber)" type="button">Check Chapter</button>
+        <!-- <router-link v-on:click="setChapters(chapter.chapterNumber)" v-bind:to="{name: 'chapters'}" tag="button">Check Chapters</router-link> -->
         <h3>
           You may also choose a chapter, here, and compare all the English
           versions of that chapter found in our database.
@@ -32,21 +35,24 @@ export default {
   data() {
     return {
       newQuote: {
-        quote: "",
+        textId: "",
+        searchText: "",
+        text: "",
         author: "",
-        book: "",
+        publishYear: "",
       },
       chapter: {
         chapterNumber: "",
         text: "",
         author: "",
         textId: "",
+        publishYear: "",
       }
     };
   },
   methods: {
     searchQuote() {
-      quoteService.searchQuote(this.newQuote.quote)
+      quoteService.searchQuote(this.newQuote.searchText)
       .then((response) => {
         if (response.status === 200) {
           alert("good job!!");
@@ -59,7 +65,12 @@ export default {
     },
     setChapters(chapter) {
       this.$store.commit("SET_CHAPTERS", chapter);
+      this.$router.push({name: 'chapters'})
     },
+    setText(text) {
+      this.$store.commit("SET_TEXT", text);
+      this.$router.push({name: 'result'});
+    }
   
 }};
 </script>

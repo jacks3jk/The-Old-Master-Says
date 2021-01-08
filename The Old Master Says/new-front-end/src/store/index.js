@@ -13,11 +13,15 @@ Vue.use(Vuex)
 export default new Vuex.Store({
   state: {
     chapters: [],
+    textResults: [],
     
   },
   mutations: {
     SET_CHAPTERS(state, chapters) {
       state.chapters = chapters;
+    },
+    SET_TEXT(state, textResults) {
+      state.textResults = textResults;
     }
   }
 })

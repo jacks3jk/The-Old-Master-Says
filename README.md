@@ -2,19 +2,23 @@
 
 **About the Project**
 
-A database API of the Laozi (Dao De Jing) that lets you compare English translations and search by text.
+A database API for the Laozi (Dao De Jing).  The app serves to main functions:
+
+1.  Lets you compare English translations of specific chapters from different authors (current count: 9). 
+
+2.  Search through the text for specific quotations (e.g. a user may check to see if 'A journey of a thousand miles begins with one step' is in any English translation of the DDJ)
 
 ![Image of Webpage](https://github.com/jacks3jk/The-Old-Master-Says/blob/main/home%20preview.png)
 
 **Project Status**
 
-This is a passion project and work in progress.  Currently, this project's front-end and back-end are disconnected, but should be connected by early December.
+In progress.  
 
 **Future Plans**
 
-- allow users to make requests through web-page
-- include a feature that lets you search found quotes and returns the likelihood it comes from the Laozi.  
-- continually work to update and expand the database with more English translations
+- Host the database on a server to open alpha testing.
+- Include a feature that uses an algorithm to determine the liklihood a particular English quote is found in the DDJ.  
+- Continually work to update and expand the database with more English translations.
 
 
 **Bugs**

@@ -35,9 +35,10 @@ export default {
 }
 
 #title h1 {
-  font-size: 150px;
+  font-size: 125px;
   border: 0;
   margin: 0;
+  padding-bottom: 50px;
 }
 
 #user-input {
@@ -45,6 +46,4 @@ export default {
   flex-direction: column;
 }
 
-#box {
-}
 </style>

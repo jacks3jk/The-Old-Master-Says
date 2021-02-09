@@ -1,12 +1,14 @@
 <template>
 <div>
+    <div>
+       <h1>Results for Chapter {{$store.state.chapters}}</h1> 
+    </div>
     <div v-for="chapter in chaptersList" v-bind:key="chapter.textId">
         <div>
-            <h1>{{chapter.author}}</h1>
-            <p>{{chapter.publishYear}}</p>
+            <h2>{{chapter.author}}</h2>
+            <h4>{{chapter.publishYear}}</h4>
            <h3>{{chapter.chapterText}}</h3> 
         </div>
-      
     </div>
   </div>
 </template>

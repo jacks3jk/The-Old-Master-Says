@@ -15,14 +15,14 @@
 
         <div>
         </div>
-
-        <input v-model="chapter.chapterNumber" type="text" id="chapters" name="chapters" />
-        <button v-on:click="setChapters(chapter.chapterNumber)" type="button">Check Chapter</button>
-        <!-- <router-link v-on:click="setChapters(chapter.chapterNumber)" v-bind:to="{name: 'chapters'}" tag="button">Check Chapters</router-link> -->
         <h3>
           You may also choose a chapter, here, and compare all the English
           versions of that chapter found in our database.
         </h3>
+        <input v-model="chapter.chapterNumber" type="text" id="chapters" name="chapters" placeholder="Please type number here"/>
+        <button v-on:click="setChapters(chapter.chapterNumber)" type="button">Check Chapter</button>
+        <!-- <router-link v-on:click="setChapters(chapter.chapterNumber)" v-bind:to="{name: 'chapters'}" tag="button">Check Chapters</router-link> -->
+        
       </div>
     </form>
   </div>
@@ -76,4 +76,15 @@ export default {
 </script>
 
 <style>
+textarea {
+  padding-bottom: 15px;
+}
+
+button {
+  margin: 10px;
+}
+
+
+
+
 </style>

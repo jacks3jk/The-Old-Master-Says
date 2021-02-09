@@ -13,7 +13,7 @@
   border: 0px;
   padding: 0px;
   background-color: rgba(192, 148, 4, 0.781);
-  height: 100vh;
+  height: 100%;
   width: auto;
   box-sizing: border-box;
 }

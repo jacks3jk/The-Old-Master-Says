@@ -15,6 +15,7 @@ export default new Vuex.Store({
     chapters: [],
     textResults: [],
     
+    
   },
   mutations: {
     SET_CHAPTERS(state, chapters) {

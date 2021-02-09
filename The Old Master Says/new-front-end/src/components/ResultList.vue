@@ -2,9 +2,10 @@
 <div>
 
     <div id="resultBody" v-for="result in resultsList" v-bind:key="result.author">
-        <h2>{{result.chapterText}}</h2>
+
+        <h1>{{result.chapterNumber}}</h1>
         <h2>{{result.translator}}</h2>
-        <h2>{{result.chapterNumber}}</h2>
+        <h3>{{result.chapterText}}</h3>
     </div>
 </div>
 </template>

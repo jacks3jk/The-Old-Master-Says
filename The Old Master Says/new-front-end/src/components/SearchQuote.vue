@@ -19,7 +19,7 @@
           You may also choose a chapter, here, and compare all the English
           versions of that chapter found in our database.
         </h3>
-        <input v-model="chapter.chapterNumber" type="text" id="chapters" name="chapters" placeholder="Please type number here"/>
+        <input v-model="chapter.chapterNumber" type="text" id="chapters" name="chapters" placeholder="Type chapter number here"/>
         <button v-on:click="setChapters(chapter.chapterNumber)" type="button">Check Chapter</button>
         <!-- <router-link v-on:click="setChapters(chapter.chapterNumber)" v-bind:to="{name: 'chapters'}" tag="button">Check Chapters</router-link> -->
         

@@ -36,7 +36,11 @@ In progress.
 **Bugs**
 
 -search query DOES NOT allow for spaces at the end of the query
+<br>
 -JS is attempting to read an int as a string
+<br>
 -search text function producing StringIndexOutOfBoundsError
+<br>
 -no "Results Not Found" page for quote searching
+<br>
 -Long quotes return many incorrect results

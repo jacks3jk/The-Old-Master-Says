@@ -2,13 +2,25 @@
 
 **About the Project**
 
-A database API for the Laozi (Dao De Jing).  The app serves to main functions:
+Welcome to "The Old Master Says".  Preview our homepage:
+
+![Image of Webpage](https://github.com/jacks3jk/The-Old-Master-Says/blob/main/home-page.png)
+
+A database API for the Laozi (Dao De Jing).  The app serves two main functions:
 
 1.  Lets you compare English translations of specific chapters from different authors (current count: 9). 
 
+![Image of Webpage](https://github.com/jacks3jk/The-Old-Master-Says/blob/main/compare-chapters-home.png)
+
+![Image of Webpage](https://github.com/jacks3jk/The-Old-Master-Says/blob/main/compare-chapters.png)
+
 2.  Search through the text for specific quotations (e.g. a user may check to see if 'A journey of a thousand miles begins with one step' is in any English translation of the DDJ)
 
-![Image of Webpage](https://github.com/jacks3jk/The-Old-Master-Says/blob/main/home%20preview.png)
+![Image of Webpage](https://github.com/jacks3jk/The-Old-Master-Says/blob/main/search-quotes-home.png)
+
+![Image of Webpage](https://github.com/jacks3jk/The-Old-Master-Says/blob/main/search-quotes.png)
+
+
 
 **Project Status**
 
@@ -26,3 +38,5 @@ In progress.
 -search query DOES NOT allow for spaces at the end of the query
 -JS is attempting to read an int as a string
 -search text function producing StringIndexOutOfBoundsError
+-no "Results Not Found" page for quote searching
+-Long quotes return many incorrect results

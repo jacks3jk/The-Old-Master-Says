@@ -145,29 +145,29 @@ VALUES (1, 68, 'The best warriors are not warlike. The best strategists are not 
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
 VALUES (1, 69, 'One of the ancient strategists said: <<I do not venture to fight an offensive war; I prefer to be on the defensive. I dare not advance an inch; I prefer to retreat a foot.>> This indicates the futility of possessing armaments, the reluctance to send armed expeditions, the inexistence of casus belli, the absence of foes. Nothing can be more calamitous than an underestimation of the enemy"s strength. To underestimate the enemy"s strength may cost a man his life. In the event of war, those who regard it as a lamentable necessity will win.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (1, 70, ' ');
+VALUES (1, 70, 'My teaching is very easy to understand and very easy to practise. Yet the world does not understand or practise it! My teaching has its basis, and my conduct has its reason. Because the world is ignorant of them, I am misunderstood. There are few who understand me, and those who abuse me are placed in positions of honour. Therefore the Sage must dress in coarse robes while hiding precious jewels within his breast!');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (1, 71, ' ');
+VALUES (1, 71, 'Those who know, and yet do not think they know, belong to the highest type of men. Those who do not know, and yet think they know, are really at fault. When one knows that he is at fault, he can be free of faults. The Sage is free of faults because he knows when he is at fault. ');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (1, 72, ' ');
+VALUES (1, 72, 'When the people are not afraid of punishment, the exercise of authority will be hampered. Do not oppress the people; do not make them weary of life. When the ruler does not oppress the people, they will not be weary of life. The Sage knows his own worth, but makes no self-display. He has self-respect, but does not feel self-important. ');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (1, 73, ' ');
+VALUES (1, 73, 'When one is daring to the point of recklessness, he will meet with violent death. When one"s daring is tempered by caution, he will find his life secure. Of these two types, one is beneficial and the other harmful. Who knows the cause of Heaven"s preference? The way of Heaven is victorious, and there is no strife convincing, and there is no speech; responsive, and there is no compulsion; sure of success, and there is no haste. The rule of Heaven is extensive and comprehensive, slow but sure. ');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (1, 74, ' ');
+VALUES (1, 74, 'When the people are not afraid of death, why try to frighten them by capital punishment? If the people are really afraid of death and when the wrongdoers are promptly executed, who will dare to do wrong? There should be a certain authority to decide on the death of men. If the decision of death is given to other men than the qualified party, it is comparable to asking a novice to do the work of a master-craftsman. In so doing, the novice seldom escapes injuring his hands. ');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (1, 75, ' ');
+VALUES (1, 75, 'The people suffer hunger because the rulers levy so many taxes. That is why they starve. The people become difficult to govern because the rulers demand too much action. That is why they are difficult to govern. The people risk death because the rulers have too many desires. That is why they risk death. He who does not occupy himself with the preservation of his own body is superior to those who regard it as a matter of utmost importance. ');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (1, 76, ' ');
+VALUES (1, 76, 'When a man is alive, his body is supple and pliant. When he is dead, it is hard and stiff. When a plant is alive, it is supple and pliant. When it is dead, it is dry and brittle. Therefore, to be hard and stiff is the way of death; to be supple and pliant is the way of life. A stiff weapon may break, just as a stiff tree may crack. That which is hard and stiff occupies a disadvantageous position. That which is supple and pliant occupies an advantageous position.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (1, 77, ' ');
+VALUES (1, 77, 'The way of Heaven is like the drawing of a bow! The bulge is levelled; the depression is raised; the excess is diminished; the deficiency is replenished. The way of Heaven is to diminish excess, and replenish deficiency. The way of man is the opposite. He robs the poor to serve the rich. Who can give all he has to serve the world? Only the follower of Truth. Thus the Sage gives without the wish for return; he achieves without claiming credit. Is this not because he wishes to conceal his worth? ');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (1, 78, ' ');
+VALUES (1, 78, 'There is nothing in this world more supple and pliant than water. Yet even the most hard and stiff cannot overcome it. This is an irrefutable truism. That the meek can overcome the strong, just as the supple can overcome the hard, is known to all people. Only they fail to practise it. A Sage once said: <<He who can suffer humiliation for the sake of his country is qualified to rule over a State. He who can suffer calamities for the sake of his country is qualified to rule over an Empire.>> ');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (1, 79, ' ');
+VALUES (1, 79, 'When one merely tries to allay anger, the feelings of resentment may always remain. Only by returning injury with kindness can there be goodwill. Wherefore, the Sage always gives without expecting gratitude. The virtuous is preoccupied with the thought of how to benefit others. The unvirtuous is preoccupied with the thought of how to injure others. The way of Heaven is impartial, helping all men alike in doing good.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (1, 80, ' ');
+VALUES (1, 80, 'The State should be small, and its inhabitants should be few. Its ruler should teach the people to shun arms and weapons even though they are available. He should teach the people to avoid the risks of death, and to be reluctant to travel in distant countries. Thus though there might be ships and carriages, they would have no need to mount them. Though there might be arms and weapons, they would have no need to use them. He should make the people return to the state of pristine simplicity where the system of knotting threads was used. Then they would relish the food they eat; consider beautiful the clothes they wear; regard as comfortable the houses they dwell in; enjoy the customs they have. The State may be so closely situated that the barking of dogs and the crowing of cocks in one may be heard in the other. Thus the people would be content to live in their own country from the time of their birth until their death without thinking of foreign intercourse.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (1, 81, ' ');
+VALUES (1, 81, 'True words may not be specious, and specious words may not be true. Good words may not be convincing, and convincing words may not be good. Wise men may not be learned, and the learned may not be wise. The Sage gives without reservation. He offers all to others, and his life is more abundant. He helps all men alike, and his life is more exuberant. The way of Heaven is to benefit, and not to harm. The way of the Sage is to give, and not to strive.');
 
 
 --2, Raymond B Blakney
@@ -187,221 +187,331 @@ VALUES (2, 6, 'The valley spirit is not dead: They say it is the mystic female. 
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
 VALUES (2, 7, 'The sky is everlasting And the earth is very old. Why so? Because the world Exists not for itself; It can and will live on. The Wise Man chooses to be last And so becomes the first of all; Denying self, he too is saved. For does he not fulfillment find In being an unselfish man?');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 8,  '');
+VALUES (2, 8,  'The highest goodness, waterlike, Does good to everything and goes Unmurmuring to places men despise; But so, is close in nature to the Way. If the good of the house is from land, Or the good of the mind is depth, Or love is the virtue of friendship, Or honesty blesses one"s talk, Or in government, goodness is order, Or in business, skill is admired, Or the worth of an act lies in timing, Then peace is the goal of the Way By which no one ever goes astray.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 9,  '');
+VALUES (2, 9,  'To take all you want, Is never as good, As to stop when you should. Scheme and be sharp, And you"ll not keep it long. One can never guard, His home when it"s full Of jade and fine gold: Wealth, power and pride, Bequeath their own doom. When fame and success, Come to you, then retire. This is the ordained Way.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 10,  '');
+VALUES (2, 10,  'Can you govern your animal soul, hold to the One and never depart from it? Can you throttle your breath, down to the softness of breath in a child? Can you purify your mystic vision and wash it until it is spotless? Can you love all your people, rule over the land without being known? Can you be like a female, and passively open and shut heaven"s gates? Can you keep clear in your mind the four quarters of earth and not interfere? Quicken them, feed them; Quicken but do not possess them. Act and be independent; Be the chief but never the lord: This describes the mystic virtue.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 11,  '');
+VALUES (2, 11,  'Thirty spokes will converge, In the hub of a wheel; But the use of the cart, Will depend on the part, Of the hub that is void. With a wall all around A clay bowl is molded; But the use of the bowl, Will depend on the part, Of the bowl that is void. Cut out windows and doors, In the house as you build; But the use of the house, Will depend on the space, In the walls that is void. So advantage is had, From whatever is there; But usefulness rises, From whatever is not.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 12,  '');
+VALUES (2, 12,  'The five colors darken the eye; The five sounds will deaden the ear; The five flavors weary the taste; Chasing the beasts of the field, Will drive a man mad. The goods that are hard to procure, Are hobbles that slow walking feet. So the Wise Man will do What his belly dictates, And never the sight of his eyes. Thus he will choose this but not that.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 13,  '');
+VALUES (2, 13,  '<<Favor, like disgrace, Brings trouble with it; High rank, like self, Involves acute distress.>> What does that mean, to say, That <<favor, like disgrace, Brings trouble with it>>? When favor is bestowed, On one of low degree, Trouble will come with it. The loss of favor too, Means trouble for that man. This, then, is what is meant, By <<favor, like disgrace Brings trouble with it.>> What does it mean, to say, That <<rank, like self, Involves acute distress>>? I suffer most because, Of me and selfishness. If I were selfless, then, What suffering would I bear? In governing the world, Let rule entrusted be, To him who treats his rank, As if it were his soul; World sovereignty can be, Committed to that man, Who loves all people, As he loves himself.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 14,  '');
+VALUES (2, 14,  'They call it elusive, and say, That one looks, But it never appears. They say that indeed it is rare, Since one listens, But never a sound. Subtle, they call it, and say, That one grasps it, But never gets hold. These three complaints amount, To only one, which is, Beyond all resolution. At rising, it does not illumine; At setting, no darkness ensues; It stretches far back, To that nameless estate, Which existed before the creation. Describe it as form yet unformed; As shape that is still without shape; Or say it is vagueness confused: One meets it and it has no front; One follows and there is no rear. If you hold ever fast, To that most ancient Way, You may govern today. Call truly that knowledge, Of primal beginnings, The clue to the Way.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 15,  '');
+VALUES (2, 15,  'The excellent masters of old, Subtle, mysterious, mystic, acute, Were much too profound for their times. Since they were not then understood, It is better to tell how they looked. Like men crossing streams in the winter, How cautious! As if all around there were danger, How watchful! As if they were guests on every occasion, How dignified! Like ice just beginning to melt, Self-effacing! Like a wood-block untouched by a tool, How sincere! Like a valley awaiting a guest, How receptive! Like a torrent that rushes along, And so turbid! Who, running dirty, comes clean like still waters? Who, being quiet, moves others to fullness of life? It is he who, embracing the Way, is not greedy; Who endures wear and tear without needing renewal.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 16,  '');
+VALUES (2, 16,  'Touch ultimate emptiness, Hold steady and still. All things work together: I have watched them reverting, And have seen how they flourish, And return again, each to his roots. This, I say, is the stillness: A retreat to one"s roots; Or better yet, return, To the will of God, Which is, I say, to constancy. The knowledge of constancy, I call enlightenment and say, That not to know it, Is blindness that works evil. But when you know, What eternally is so, You have stature, And stature means righteousness, And righteousness is kingly, And kingliness divine, And divinity is the Way, Which is final. Then, though you die, You shall not perish.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 17,  '');
+VALUES (2, 17,  'As for him who is highest, The people just know he is there. His deputy"s cherished and praised; Of the third, they are frightened; The fourth, they despise and revile. If you trust people less than enough, Some of them never trust you. He is aloof, as if his talk, Were priced beyond the purchasing; But once his project is contrived, The folk will want to say of it: "Of course! We did it by ourselves!"');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 18,  '');
+VALUES (2, 18,  'The mighty Way declined among the folk, And then came kindness and morality. When wisdom and intelligence appeared, They brought with them a great hypocrisy. The six relations were no more at peace, So codes were made to regulate our homes. The fatherland grew dark, confused by strife: Official loyalty became the style.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 19,  '');
+VALUES (2, 19,  'Get rid of the wise men! Put out the professors! Then people will profit, A hundredfold over. Away with the kind ones; Those righteous men too! And let people return, To the graces of home. Root out the artisans; Banish the profiteers! And bandits and robbers, Will not come to plunder. But if these three prove not enough, To satisfy the mind and heart, More relevant, then, let there be, A visible simplicity of life, Embracing unpretentious ways, And small self-interest, And poverty of coveting.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 20,  '');
+VALUES (2, 20,  'Be done with rote learning, And its attendant vexations; For is there distinction, Of a "yes" from a "yea", Comparable now to the gulf, Between evil and good? "What all men fear, I too must fear"- How barren and pointless a thought! The reveling of multitudes, At the feast of Great Sacrifice, Or up on the terrace, At carnival in spring, Leave me, alas, unmoved, alone, Like a child that has never smiled. Lazily, I drift, As though I had no home. All others have enough to spare; I am the one left out. I have the mind of a fool, Muddled and confused! When common people scintillate, I alone make shadows. Vulgar folks are sharp and knowing: Only I am melancholy. Restless like the ocean, Blown about, I cannot stop. Other men can find employment, But I am stubborn; I am mean. Alone I am and different, Because I prize and seek, My sustenance from the Mother!');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 21,  '');
+VALUES (2, 21,  'The omnipresent Virtue will take shape, According only to the Way. The Way itself is like some thing, Seen in a dream, elusive, evading one. In it are images, elusive, evading one. In it are things like shadows in twilight. In it are essences, subtle but real, Embedded in truth. From of old until now, Under names without end, The First, the Beginning is seen. How do I know the beginning of all, What its nature may be? By these!');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 22,  '');
+VALUES (2, 22,  'The crooked shall be made straight, And the rough places plain; The pools shall be filled, And the worn renewed; The needy shall receive, And the rich shall be perplexed. So the Wise Man cherishes the One, As a standard to the world: Not displaying himself, He is famous; Not asserting himself, He is distinguished; Not boasting his powers, He is effective; Taking no pride in himself, He is chief. Because he is no competitor, No one in all the world, can compete with him. The saying of the men of old, Is not in vain: "The crooked shall be made straight-", To be perfect, return to it.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 23,  '');
+VALUES (2, 23,  'Sparing indeed is nature of its talk: The whirlwind will not last the morning out; The cloudburst ends before the day is done. What is it that behaves itself like this? The earth and sky! And if it be that these, Cut short their speech, how much more yet should man! If you work by the Way, You will be of the Way; If you work through its virtue, you will be given the virtue; Abandon either one, And both abandon you. Gladly then the Way receives, Those who choose to walk in it; Gladly too its power upholds, Those who choose to use it well; Gladly will abandon greet, Those who to abandon drift. Little faith is put in them, Whose faith is small.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 24,  '');
+VALUES (2, 24,  'On tiptoe your stance is unsteady; Long strides make your progress unsure; Show off and you get no attention; Your boasting will mean you have failed; Asserting yourself brings no credit; Be proud and you will never lead. To persons of the Way, these traits, Can only bring distrust; they seem, Like extra food for parasites. So those who choose the Way, Will never give them place.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 25,  '');
+VALUES (2, 25,  'Something there is, whose veiled creation was, Before the earth or sky began to be; So silent, so aloof and so alone, It changes not, nor fails, but touches all: Conceive it as the mother of the world. I do not know its name: A name for it is "Way"; Pressed for designation, I call it Great. Great means outgoing, Outgoing, far-reaching, Far-reaching, return. The Way is great, The sky is great, The earth is great, The king also is great. Within the realm, These four are great; The king but stands, For one of them. Man conforms to the earth; The earth conforms to the sky; The sky conforms to the Way; The Way conforms to its own nature.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 26,  '');
+VALUES (2, 26,  'The heavy is foundation for the light; So quietness is master of the deed. The Wise Man, though he travel all the day, Will not be separated from his goods. So even if the scene is glorious to view, He keeps his place, at peace, above it all. For how can one who rules, Ten thousand chariots, Give up to lighter moods, AS all the world may do? If he is trivial, His ministers are lost; If he is strenuous, There is no master then.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 27,  '');
+VALUES (2, 27,  'A good runner leaves no tracks. A good speech has no flaws to censure. A good computer uses no tallies. A good door is well shut without bolts and cannot be opened. A good knot is tied without rope and cannot be loosed. The Wise Man is always good at helping people, so that none are cast out; he is always good at saving things, so that none are thrown away. This is called applied intelligence. Surely the good man is the bad man"s teacher; and the bad man is the good man"s business. If the one does not respect his teacher, or the other doesn"t love his business, his error is very great. This is indeed an important secret.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 28,  '');
+VALUES (2, 28,  'Be aware of your masculine nature; But by keeping the feminine way, You shall be to the world like a canyon, Where the Virtue eternal abides, And go back to become as a child. Be aware of the white all around you; But remembering the black that is there, You shall be to the world like a tester, Whom the Virtue eternal, unerring, Redirects to the infinite past. Be aware of your glory and honor; But in never relinquishing shame, You shall be to the world like a valley, Where Virtue eternal, sufficient, Sends you back to the Virginal Block. When the Virginal Block is asunder, And is made into several tools, To the ends of the Wise Man directed, They become then his chief officers: For "The Master himself does not carve."');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 29,  '');
+VALUES (2, 29,  'As for those who would take the whole world, To tinker as they see fit, I observe that they never succeed: For the world is a sacred vessel, Not to be altered by man. The tinker will spoil it; Usurpers will lose it. For indeed there are things, That must move ahead, While others must lag; And some that feel hot, While others feel cold; And some that are strong, While others are weak; And vigorous ones, While others worn out. So the Wise Man discards, Extreme inclinations, To make sweeping judgments, Or to a life of excess.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 30,  '');
+VALUES (2, 30,  'To those who would help, The ruler of men, By means of the Way: Let him not with his militant might, Try to conquer the world; This tactic is like to recoil. For where armies have marched, There do briars spring up; Where great hosts are impressed, Years of hunger and evil ensue. The good man"s purpose once attained, He stops at that; He will not press for victory. His point once made, he does not boast, Or celebrate the goal he gained, Or proudly indicate the spoils. He won the day because he must: But not by force or violence. That things with age decline in strength, You well may say, suits not the Way; And not to suit the Way is early death.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 31,  '');
+VALUES (2, 31,  'Weapons at best are tools of bad omen, Loathed and avoided by those of the Way. In the usage of men of good breeding, Honor is had at the left; Good omens belong on the left, Bad omens belong on the right; And warriors press to the right! When the general stands at the right, His lieutenant is placed at the left. So the usage of men of great power, Follows that of the funeral rite. Weapons are tools of bad omen, By gentlemen not to be used; But when it cannot be avoided, They use them with calm and restraint. Even in victory"s hour, These tools are unlovely to see; For those who admire them truly, Are men who in murder delight. As for those who delight to do murder, It is certain they never can get, From the world what they sought when ambition, Urged them to power and rule. A multitude slain!- and their death, Is a matter for grief and for tears; The victory after a conflict, Is a theme for a funeral rite.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 32,  '');
+VALUES (2, 32,  'The Way eternal has no name. A block of wood untooled, though small, May still excel the world. And if the king and nobles could, Retain its potency for good, Then everything would freely give, Allegiance to their rule. The earth and sky would then conspire, To bring the sweet dew down; And evenly it would be given, To folk without constraining power. Creatures came to be with order"s birth, And once they had appeared, Came also knowledge of repose, And with that was security. In this world, Compare those of the Way, To torrents that flow, Into river and sea.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 33,  '');
+VALUES (2, 33,  'It is wisdom to know others; It is enlightenment to know one"s self. The conqueror of men is powerful; The master of himself is strong. It is wealth to be content; It is willful to force one"s way on others. Endurance is to keep one"s place; Long life it is to die and not perish.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (2, 34,  '');
+VALUES (2, 34,  'O the great Way o"erflows, And spreads on every side! All beings come from it; No creature is denied. But having called them forth, It calls not one its own. It feeds and clothes them all, And will not be their lord. Without desire always, It seems of slight import. Yet, nonetheless, in this, Its greatness still appears: When they return to it, No creature meets a lord. The Wise Man, therefore, while he is alive, Will never make a show of being great: And that is how his greatness is achieved.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 35,  'Once grasp the great Form without form, And you roam where you will, With no evil to fear, Calm, peaceful, at ease. At music and viands, The wayfarer stops. But the Way, when declared, Seems thin and so flavorless! It is nothing to look at, And nothing to hear; But used, it will prove, Inexhaustible.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 36,  'What is to be shrunken, Is first stretched out; What is to be weakened, Is first made strong; What will be thrown over, Is first raised up; What will be withdrawn, Is first bestowed. This indeed is, Subtle Light; The gentle way, Will overcome, The hard and strong. As fish should not, Get out of pools, The realm"s edged tools, Should not be shown, To anybody.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 37,  'The Way is always still, at rest, And yet does everything that"s done. If then the king and nobles could, Retain its potency for good, The creatures all would be transformed. But if, the change once made in them, They still inclined to do their work, I should restrain them then, By means of that unique, Original simplicity, Found in the Virgin Block, Which brings disinterest, With stillness in its train, And so, an ordered world.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 38,  'A man of highest virtue, Will not display it as his own; His virtue then is real. Low virtue makes one miss no chance, To show his virtue off; His virtue then is naught. High virtue is at rest; It knows no need to act. Low virtue is a busyness, Pretending to accomplishment. Compassion at its best, Consists in honest deeds; Morality at best, Is something done, aforethought; High etiquette, when acted out, Without response from others, Constrains a man to bare his arms, And make them do their duty! Truly, once the Way is lost, There comes then virtue; Virtue lost, comes then compassion; After that morality; And when that"s lost, there"s etiquette, The husk of all good faith, The rising point of anarchy. Foreknowledge is, they say, The Doctrine come to flower; But better yet, it is, The starting point of silliness. So once full-grown, a man will take, The meat and not the husk, The fruit and not the flower. Rejecting one, he takes the other.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 39,  'These things in ancient times received the One: The sky obtained it and was clarified; The earth received it and was settled firm; The spirits got it and were energized; The valleys had it, filled to overflow; All things, as they partook it came alive; The nobles and the king imbibed the One, In order that the realm might upright be; Such things were then accomplished by the One. Without its clarity the sky might break; Except it were set firm, the earth might shake; Without their energy the gods would pass; Unless kept full, the valleys might go dry; Except for life, all things would pass away; Unless the One did lift and hold them high, The nobles and the king might trip and fall. The humble folk support the mighty ones; They are base on which the highest rest. The nobles and the king speak of themselves, As "orphans," "desolate" and "needy ones." Does this not indicate that they depend, Upon the lowly people for support? Truly a cart is more than the sum of its parts. Better to rumble like rocks, Than to tinkle like jade.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 40,  'The movement of the Way is a return; In weakness lies its major usefulness. From What-is all the world of things was born, But What-is sprang in turn from What-is-not.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 41,  'On hearing of the Way, the best of men, Will earnestly explore its length. The mediocre person learns of it, And takes it up and sets it down. But vulgar people, when they hear the news, Will laugh out loud, and if they did not laugh, It would not be the Way. And so there is a proverb: "When going looks like coming back, The clearest road is mighty dark." Today, the Way that"s plain looks rough, And lofty virtue like a chasm; The purest innocence like shame, The broadest power not enough, Established goodness knavery, Substantial worth like shifting tides. Great space has no corners; Great powers come late; Great music is soft sound; The great Form no shape. The Way is obscure and unnamed; It is a skilled investor, nonetheless, The master of accomplishment.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 42,  'The Way begot one, And the one, two; Then the two begot three, And three, all else. All things bear the shade on their backs, And the sun in their arms; By the blending of breath, From the sun and the shade, Equilibrium comes to the world. Orphaned, or needy, or desolate, these, Are conditions much feared and disliked; Yet in public address, the king, And the nobles account themselves thus. So a loss sometimes benefits one, Or a benefit proves to be loss. What others have taught, I also shall teach: If a violent man does not come, To a violent death, I shall choose him to teach me.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 43,  'The softest of stuff in the world, Penetrates quickly the hardest; Insubstantial, it enters, Where no room is. By this I know the benefit, Of something done by quiet being; In all the world but few can know, Accomplishment apart from work, Instruction when no words are used.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 44,  'Which is dearer, fame or self? Which is worth more, man or pelf? Which would hurt more, gain or loss? The mean man pays the highest price; The hoarder takes the greatest loss; A man content is never shamed, And self-restrained, is not in danger: He will live forever.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 45,  'Most perfect, yet it seems, Imperfect, incomplete: Its use is not impaired. Filled up, and yet it seems, Poured out, an empty void: It never will run dry. The straightest, yet it seems, To deviate, to bend; The highest skill and yet, It looks like clumsiness. The utmost eloquence, It sounds like stammering. As movement overcomes, The cold, and stillness, heat, The Wise Man, pure and still, Will rectify the world.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 46,  'When the Way rules the world, Coach horses fertilize the fields; When the Way does not rule, War horses breed in the parks. No sin can exceed, Incitement to envy; No calamity"s worse, Than to be discontented, Nor is there an omen, More dreadful than coveting. But once be contented, And truly you"ll always be so.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 47,  'The world may be known, Without leaving the house; The Way may be seen, Apart from the windows. The further you go, The less you will know. Accordingly, the Wise Man, Knows without going, Sees without seeing, Does without doing.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 48,  'The student learns by daily increment. The Way is gained by daily loss, Loss upon loss until, At last comes rest. By letting go, it all gets done; The world is won by those who let it go! But when you try and try, The world is then beyond the winning.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 49,  'The Wise Man"s mind is free, But tuned to people"s need: "Alike to be good and bad, I must be good, For Virtue is goodness. To honest folk, And those dishonest ones, Alike, I proffer faith, For Virtue is faithful." The Wise Man, when abroad, Impartial to the world, Does not divide or judge. But people everywhere, Mark well his ears and eyes; For wise men hear and see, As little children do.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 50,  'On leaving life, to enter death: Thirteen members form a living body; A corpse has thirteen, too: Thirteen spots by which a man may pass, From life to death. Why so? Because his way of life, Is much too gross. As I have heard, the man who knows, On land how best to be at peace, Will never meet a tiger or a buffalo; In battle, weapons do not touch his skin. There is no place the tiger"s claws can grip; Or with his horn, the buffalo can jab; Or where the soldier can insert his sword. Why so? In him there is no place of death.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 51,  'The Way brings forth, Its virtue fosters them, With matter they take shape, And circumstance perfects them all: That is why all things, Do honor the Way, And venerate its power. The exaltation of the Way, The veneration of its power, Come not by fate or decree; But always just because, By nature it is so. So when the Way brings forth, Its power fosters all: They grow, are reared, And fed and housed until, They come to ripe maturity. You shall give life to things, But never possess them; Your work shall depend on none; You shall be chief but never lord. This describes the mystic power.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 52,  'It began with a matrix: The world had a mother, Whose sons can be known, As ever, by her. But if you know them, You"ll keep close to her, As long as you live, And suffer no harm. Stop up your senses; Close up your doors; Be not exhausted, As long as you live. Open your senses; Be busier still: To the end of your days, There"s no help for you. You are bright, it is said, If you see what is small; A store of small strengths, Makes you strong. By the use of its light, Make your eyes again bright, From evil to lead you away. This is called "practicing constancy."');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 53,  'When I am walking on the mighty Way, Let me but know the very least I may, And I shall only fear to leave the road. The mighty Way is easy underfoot, But people still prefer the little paths. The royal court is dignified, sedate, While farmers" fields are overgrown with weeds; The granaries are empty and yet they, Are clad in rich-embroidered silken gowns. They have sharp swords suspended at their sides; With glutted wealth, they gorge with food and drink. It is, the people say, The boastfulness of brigandage, But surely not the Way!');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 54,  'Set firm in the Way: none shall uproot you; Cherish it well and none shall estrange you; Your children"s children faithful shall serve, Your forebears at the altar of your house. Cultivate the Way yourself, and your Virtue will be genuine. Cultivate it in the home, and its Virtue will overflow. Cultivate it in the village, and the village will endure. Cultivate it in the realm, and the realm will flourish. Cultivate it in the world, and Virtue will be universal. Accordingly, One will be judged by the Man of the Way; Homes will be viewed through the Home of the Way; And the Village shall measure the village; And the Realm, for all realms, shall be standard; And the World, to this world, shall be heaven. How do I know the world is like this? By this.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 55,  'Rich in virtue, like an infant, Noxious insects will not sting him; Wild beasts will not attack his flesh, Nor birds of prey sink claws in him. His bones are soft, his sinews weak, His grip is nonetheless robust; Of sexual union unaware, His organs all completely formed, His vital force is at its height. He shouts all day, does not get hoarse: His person is a harmony. Harmony experienced is known as constancy; Constancy experienced is called enlightenment; Exuberant vitality is ominous, they say; A bent for vehemence is called aggressiveness. That things with age decline in strength, You well may say, suits not the Way; And not to suit the Way is early death.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 56,  'Those who know do not talk, And talkers do not know. Stop your senses, Close the doors; Let sharp things be blunted, Tangles resolved, The light tempered, And turmoil subdued; For this is mystic unity, In which the Wise Man is moved, Neither by affection, Nor yet by estrangement, Or profit or loss, Or honor or shame. Accordingly, by all the world, He is held highest.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 57,  '<<Govern the realm by the right, And battles by stratagem.>> The world is won by refraining. How do I know this is so? By this: As taboos increase, people grow poorer; When weapons abound, the state grows chaotic; Where skills multiply, novelties flourish; As statutes increase, more criminals start. So the Wise Man will say: As I refrain, the people will reform: Since I like quiet, they will keep order; When I forebear, the people will prosper; When I want nothing, they will be honest.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 58,  'Listlessly govern: Happy your people; Govern exactingly: Restless your people. <<Bad fortune will, Promote the good; Good fortune, too, Gives rise to the bad.>> But who can know to what that leads? For it is wrong and would assign, To right the strangest derivations, And would mean that goodness, Is produced by magic means! Has man thus been so long astray? Accordingly, the Wise Man, Is square but not sharp, Honest but not malign, Straight but not severe, Bright but not dazzling.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 59,  '<<For ruling men or serving God, There"s nothing else like stores saved up.>> By "stores saved up" is meant forehandedness, Accumulate Virtue, such that nothing, Can resist it and its limit, None can guess: such infinite resource, Allows the jurisdiction of the king; Whose kingdom then will long endure, If it provides the Mother an abode. Indeed it is the deeply rooted base, The firm foundation of the Way, To immortality of self and name.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 60,  'Rule a large country, As small fish are cooked. The evil spirits of the world, Lose sanction as divinities, When government proceeds, According to the Way; But even if they do not lose, Their ghostly countenance and right, The people take no harm from them; And if the spirits cannot hurt the folk, The Wise Man surely does no hurt to them. Since then the Wise Man and the people, Harm each other not at all, Their several virtues should converge.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 61,  'The great land is a place, To which the streams descend; It is the concourse and, The female of the world: Quiescent, underneath, It overcomes the male. By quietness and by humility, The great land then puts down the small, And gets it for its own; But small lands too absorb the great, By their subservience. Thus some lie low, designing conquest"s ends; While others lowly are, by nature bent, To conquer all the rest. The great land"s foremost need is to increase, The number of its folk; The small land needs above all else to find, Its folk more room to work. That both be served and each attain its goal, The great land should attempt humility.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 62,  'Like the gods of the shrine in the home, So the Way and its mystery waits, In the world of material things: The good man"s treasure, The bad man"s refuge. Fair wordage is ever for sale; Fair manners are worn like a cloak; But why should there be such waste, Of the badness in men? On the day of the emperor"s crowning, When the three noble dukes are appointed, Better than chaplets of jade, Drawn by a team of four horses, Bring the Way as your tribute. How used the ancients to honor the Way? Didn"t they say that the seeker may find it, And that sinners who find are forgiven? So did they lift up the Way and its Virtue, Above everything else in the world.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 63,  'Act in repose; Be at rest when you work; Relish unflavored things. Great or small, Frequent or rare, Requite anger with virtue. Take hard jobs in hand, While they are easy; And great affairs too, While they are small. The troubles of the world, Cannot be solved except, Before they grow too hard. The business of the world, Cannot be done except, While relatively small. The Wise Man, then, throughout his life, Does nothing great and yet achieves, A greatness of his own. Again, a promise lightly made, Inspires little confidence; Or often trivial, sure that man, Will often come to grief. Choosing hardship, then, the Wise Man, Never meets with hardship all his life.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 64,  'A thing that is still is easy to hold. Given no omen, it is easy to plan. Soft things are easy to melt. Small particles scatter easily. The time to take care is before it is done. Establish order before confusion sets in. Tree trunks around which you can reach with, your arms were at first only minuscule sprouts. A nine-storied terrace began with a clod. A thousand-mile journey began with a foot put down. Doing spoils it, grabbing misses it; So the Wise Man refrains from doing, and doesn"t spoil anything; He grabs at nothing so never misses. People are constantly spoiling a project, when it lacks only a step to completion. To avoid making a mess of it, be as careful of the end as you were of the beginning. So the Wise Man wants the unwanted; he sets no high value on anything, because it is hard to get. He studies what others neglect, and restores to the world what multitudes have passed by. His object is to restore everything to its natural course, but he dares take no steps to that end.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 65,  'Those ancients who were skilled in the Way, Did not enlighten people by their rule, But had them ever held in ignorance: The more the folk know what is going on, The harder it becomes to govern them. For public knowledge of the government, Is such a thief that it will spoil the realm; But when good fortune brings good times to all, The land is ruled without publicity. To know the difference between these two, Involves a standard to be sought and found. To know that standard always, everywhere, Is mystic Virtue, justly known as such; Which Virtue is so deep and reaching far, It causes a return, things go back, To that prime concord which at first all shared.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 66,  'How could the rivers and the seas, Become like kings to valleys? Because of skill in lowliness, They have become the valley"s lords. So then to be above the folk, You speak as if you were beneath; And if you wish to be out front, Then act as if you were behind. The Wise Man so is up above, But is no burden to the folk; His station is ahead of them, To see they do not come to harm. The world will gladly help along, The Wise Man and will bear no grudge. Since he contends not for his own, The world will not contend with him.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 67,  'Everywhere, they say the Way, our doctrine, Is so very like detested folly; But greatness of its own alone explains, Why it should be thus held beyond the pale. If it were only orthodox, long since, It would have seemed a small and petty thing! I have to keep three treasures well secured: The first, compassion; next, frugality; And third, I say that never would I once, Presume that I should be the whole world"s chief. Given compassion, I can take courage; Given frugality, I can abound; If I can be the world"s most humble man, Then I can be its highest instrument. Bravery today knows no compassion; Abundance is, without frugality, And eminence without humility: This is the death indeed of all our hope. In battle, "tis compassion wins the day; Defending, "tis compassion that is firm: Compassion arms the people God would save!');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 68,  'A skillful soldier is not violent; An able fighter does not rage; A mighty conqueror does not give battle; A great commander is a humble man. You may call this pacific virtue; Or say that it is mastery of men; Or that it is rising to the measure of God, Or to the stature of the ancients.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 69,  'The strategists have a saying: <<If I cannot be host, Then let me be guest. But if I dare not advance, Even an inch, Then let me retire a foot.>> This is what they call, A campaign without a march, Sleeves up but no bare arms, Shooting but no enemies, Or arming without weapons. Than helpless enemies, nothing is worse: To them I lose my treasures. When opposing enemies meet, The compassionate man is the winner!');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 70,  'My words are easy just to understand: To live by them is very easy too; Yet it appears that none in all the world, Can understand or make them come to life. My words have ancestors, my works a prince; Since none know this, unknown I too remain. But honor comes to me when least I"m known: The Wise Man, with a jewel in his breast, Goes clad in garments made of shoddy stuff.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 71,  'To know that you are ignorant is best; To know what you do not, is a disease; But if you recognize the malady, Of mind for what it is, then that is health. The Wise Man has indeed a healthy mind; He sees an aberration as it is, And for that reason never will be ill.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 72,  'If people do not dread your majesty, A greater dread will yet descend on them. See then you do not cramp their dwelling place, Or immolate their children or their stock, Nor anger them by your own angry ways. It is the Wise Man"s way to know himself, And never to reveal his inward thoughts; He loves himself but so, is not set up; He chooses this in preference to that.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 73,  'A brave man who dares to, will kill; A brave man who dares not, spares life; And from them both come good and ill; <<God hates some folks, but who knows why?>> The Wise Man hesitates there too: God"s Way is bound to conquer all, But not by strife does it proceed. Not by words does God get answers: He calls them not and all things come. Master plans unfold but slowly, Like God"s wide net enclosing all: Its mesh is coarse but none are lost.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 74,  'The people do not fear at all to die; What"s gained therefore by threatening them with death? If you could always make them fear decease, As if it were a strange event and rare, Who then would dare to take and slaughter them? The executioner is always set, To slay, but those who substitute for him, Are like would-be master carpenters, Who try to chop as that skilled craftsman does, And nearly always mangle their own hands!');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 75,  'The people starve because of those, Above them, who consume by tax,In grain and kind more than their right. For this, the people are in want. The people are so hard to rule, Because of those who are above them, Whose interference makes distress. For this, they are so hard to rule. The people do not fear to die; They too demand to live secure: For this, they do not fear to die. So they, without the means to live, In virtue rise above those men, Who value life above its worth.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 76,  'Alive, a man is supple, soft; In death, unbending, rigorous. All creatures, grass and trees, alive, Are plastic but are pliat too, And dead, are friable and dry. Unbending rigor is the mate of death, And wielding softness, company of life: Unbending soldiers get no victories; The stiffest tree is readiest for the ax. The strong and mighty topple from their place; The soft and yielding rise above them all.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 77,  'Is not God"s Way much like a bow well bent? The upper part has been disturbed, pressed down; The lower part is raised up from its place; The slack is taken up; the slender width, Is broader drawn; for thus the Way of God, Cuts people down when they have had too much, And fills the bowls of those who are in want. But not the way of man will work like this: The people who have not enough are spoiled, For tribute to the rich and surfeited. Who can benefit the world, From stored abundance of his own? He alone who has the Way, The Wise Man who can act apart, And not depend on others" whims; But not because of his high rank, Will he succeed; he does not wish, To flaunt superiority.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 78,  'Nothing is weaker than water, But when it attacks something hard, Or resistant, then nothing withstands it, And nothing will alter its way. Everyone knows this, that weakness prevails, Over strength and that gentleness conquers, The adamant hindrance of men, but that, Nobody demonstrates how it is so. Because of this the Wise Man says, That only one who bears the nations shame, Is fit to be its hallowed lord; That only one who takes upon himself, The evils of the world may be its king. This is paradox.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 79,  'How can you think it is good, To settle a grievance too great, To ignore, when the settlement, Surely evokes other piques? The Wise Man therefore will select, The left-hand part of contract tallies: He will not put the debt on other men. This virtuous man promotes agreement; The vicious man allots the blame. <<Impartial though the Way of God may be, It always favors good men.>>');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 80,  'The ideal land is small, Its people very few, Where tools abound, Ten times or yet, A hundred-fold, Beyond their use; Where people die, And die again, But never emigrate; Have boats and carts, Which no one rides. Weapons have they, And armor too, But none displayed. The folk returns, To use again, The knotted chords. Their meat is sweet; Their clothes adorned, Their homes at peace, Their customs charm. And neighbor lands, Are juxtaposed, So each may hear, The barking dogs, The crowing cocks, Across the way; Where folks grow old, And folks will die, And never once, Exchange a call.');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (2, 81,  'As honest words may not sound fine, Fine words may not be honest ones; A good man does not argue, and, An arguer may not be good! The knowers are not learned men, And learned men may never know. The Wise Man does not hoard his things; Hard-pressed, from serving other men, He has enough and some to spare; But having given all he had, He then is very rich indeed. God"s Way is gain that works no harm; The Wise Man"s way, to do his work, Without contending for a crown.');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--6, Gia-Fu Feng and Jane English 
 
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, aXX,  'The Tao that can be told is not the eternal Tao.\nThe name that can be named is not the eternal name. The nameless is the beginning of heaven and Earth.\nThe named is the mother of the ten thousand things. Ever desireless, one can see the mystery.\nEver desiring, one sees the manifestations. These two spring from the same source but differ in name; this appears as darkness. Darkness within darkness. The gate to all mystery.');
+VALUES (6, 1,  'The Tao that can be told is not the eternal Tao. The name that can be named is not the eternal name. The nameless is the beginning of heaven and Earth.\nThe named is the mother of the ten thousand things. Ever desireless, one can see the mystery.\nEver desiring, one sees the manifestations. These two spring from the same source but differ in name; this appears as darkness. Darkness within darkness. The gate to all mystery.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, bXX,  'Under heaven all can see beauty as beauty only because there is ugliness. All can know good as good only because there is evil. Therefore having and not having arise together. Difficult and easy complement each other. Long and short contrast each other:\nHigh and low rest upon each other; Voice and sound harmonize each other; Front and back follow one another. Therefore the sage goes about doing nothing, teaching no-talking. The ten thousand things rise and fall without cease, Creating, yet not possessing. Working, yet not taking credit. Work is done, then forgotten. Therefore it lasts forever.');
+VALUES (6, 2,  'Under heaven all can see beauty as beauty only because there is ugliness. All can know good as good only because there is evil. Therefore having and not having arise together. Difficult and easy complement each other. Long and short contrast each other:\nHigh and low rest upon each other; Voice and sound harmonize each other; Front and back follow one another. Therefore the sage goes about doing nothing, teaching no-talking. The ten thousand things rise and fall without cease, Creating, yet not possessing. Working, yet not taking credit. Work is done, then forgotten. Therefore it lasts forever.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, cXX,  'Not exalting the gifted prevents quarreling. Not collecting treasures prevents stealing. Not seeing desirable things prevents confusion of the heart. The wise therefore rule by emptying hearts and stuffing bellies, by weakening ambitions and strengthening bones. If men lack knowledge and desire, then clever people will not try to interfere. If nothing is done, then all will be well.');
+VALUES (6, 3,  'Not exalting the gifted prevents quarreling. Not collecting treasures prevents stealing. Not seeing desirable things prevents confusion of the heart. The wise therefore rule by emptying hearts and stuffing bellies, by weakening ambitions and strengthening bones. If men lack knowledge and desire, then clever people will not try to interfere. If nothing is done, then all will be well.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, dXX,  'The Tao is an empty vessel; it is used, but never filled. Oh, unfathomable source of ten thousand things! Blunt the sharpness, Untangle the knot, Soften the glare, Merge with dust. Oh, hidden deep but ever present! I do not know from whence it comes. It is the forefather of the gods.');
+VALUES (6, 4,  'The Tao is an empty vessel; it is used, but never filled. Oh, unfathomable source of ten thousand things! Blunt the sharpness, Untangle the knot, Soften the glare, Merge with dust. Oh, hidden deep but ever present! I do not know from whence it comes. It is the forefather of the gods.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, eXX,  'Heaven and Earth are impartial; They see the ten thousand things as straw dogs. The wise are impartial; They see the people as straw dogs. The space between heaven and Earth is like a bellows. The shape changes but not the form; The more it moves, the more it yields. More words count less. Hold fast to the center.');
+VALUES (6, 5,  'Heaven and Earth are impartial; They see the ten thousand things as straw dogs. The wise are impartial; They see the people as straw dogs. The space between heaven and Earth is like a bellows. The shape changes but not the form; The more it moves, the more it yields. More words count less. Hold fast to the center.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, fXX,  'The valley spirit never dies; It is the woman, primal mother. Her gateway is the root of heaven and Earth. It is like a veil barely seen. Use it; it will never fail.');
+VALUES (6, 6,  'The valley spirit never dies; It is the woman, primal mother. Her gateway is the root of heaven and Earth. It is like a veil barely seen. Use it; it will never fail.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, gXX,  'Heaven and Earth last forever. Why do heaven and Earth last forever? They are unborn, So ever living. The sage stays behind, thus he is ahead. He is detached, thus at one with all. Through selfless action, he attains fulfillment.');
+VALUES (6, 7,  'Heaven and Earth last forever. Why do heaven and Earth last forever? They are unborn, So ever living. The sage stays behind, thus he is ahead. He is detached, thus at one with all. Through selfless action, he attains fulfillment.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, hXX,  'The highest good is like water. Water give life to the ten thousand things and does not strive. It flows in places men reject and so is like the Tao. In dwelling, be close to the land.In meditation, go deep in the heart.In dealing with others, be gentle and kind.In speech, be true.In ruling, be just.In daily life, be competent. In action, be aware of the time and the season.No fight: No blame.');
+VALUES (6, 8,  'The highest good is like water. Water give life to the ten thousand things and does not strive. It flows in places men reject and so is like the Tao. In dwelling, be close to the land.In meditation, go deep in the heart.In dealing with others, be gentle and kind.In speech, be true.In ruling, be just.In daily life, be competent. In action, be aware of the time and the season.No fight: No blame.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, iXX,  'Better to stop short than fill to the brim. Oversharpen the blade, and the edge will soon blunt. Amass a store of gold and jade, and no one can protect it. Claim wealth and titles, and disaster will follow. Retire when the work is done. This is the way of heaven.');
+VALUES (6, 9,  'Better to stop short than fill to the brim. Oversharpen the blade, and the edge will soon blunt. Amass a store of gold and jade, and no one can protect it. Claim wealth and titles, and disaster will follow. Retire when the work is done. This is the way of heaven.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, jXX,  'Carrying body and soul and embracing the one, Can you avoid separation? Attending fully and becoming supple, Can you be as a newborn babe? Washing and cleansing the primal vision, Can you be without stain? Loving all men and ruling the country, Can you be without cleverness? Opening and closing the gates of heaven, Can you play the role of woman? Understanding and being open to all things, Are you able to do nothing? Giving birth and nourishing, Bearing yet not possessing, Working yet not taking credit, Leading yet not dominating, This is the Primal Virtue.');
+VALUES (6, 10,  'Carrying body and soul and embracing the one, Can you avoid separation? Attending fully and becoming supple, Can you be as a newborn babe? Washing and cleansing the primal vision, Can you be without stain? Loving all men and ruling the country, Can you be without cleverness? Opening and closing the gates of heaven, Can you play the role of woman? Understanding and being open to all things, Are you able to do nothing? Giving birth and nourishing, Bearing yet not possessing, Working yet not taking credit, Leading yet not dominating, This is the Primal Virtue.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, kXX,  'Thirty spokes share the wheels hub; It is the center hole that makes it useful. Shape clay into a vessel; It is the space within that makes it useful.\nCut doors and windows for a room; It is the holes which make it useful. Therefore benefit comes from what is there; Usefulness from what is not there.');
+VALUES (6, 11,  'Thirty spokes share the wheels hub; It is the center hole that makes it useful. Shape clay into a vessel; It is the space within that makes it useful.\nCut doors and windows for a room; It is the holes which make it useful. Therefore benefit comes from what is there; Usefulness from what is not there.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, lXX,  'The five colors blind the eye. The five tones deafen the ear. The five flavors dull the taste. Racing and hunting madden the mind. Precious things lead one astray. Therefore the sage is guided by what he feels and not by what he sees. He lets go of that and chooses this.');
+VALUES (6, 12,  'The five colors blind the eye. The five tones deafen the ear. The five flavors dull the taste. Racing and hunting madden the mind. Precious things lead one astray. Therefore the sage is guided by what he feels and not by what he sees. He lets go of that and chooses this.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, mXX,  'Accept disgrace willingly. Accept misfortune as the human condition. What do you mean by Accept disgrace willingly? Accept being unimportant. Do not be concerned with loss or gain. This is called accepting disgrace willingly. What do you mean by Accept misfortune as the human condition? Misfortune comes from having a body. Without a body, how could there be misfortune? Surrender yourself humbly; then you can be trusted to care for all things. Love the world as your own self; then you can truly care for all things.');
+VALUES (6, 13,  'Accept disgrace willingly. Accept misfortune as the human condition. What do you mean by Accept disgrace willingly? Accept being unimportant. Do not be concerned with loss or gain. This is called accepting disgrace willingly. What do you mean by Accept misfortune as the human condition? Misfortune comes from having a body. Without a body, how could there be misfortune? Surrender yourself humbly; then you can be trusted to care for all things. Love the world as your own self; then you can truly care for all things.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, nxx, 'Look, it cannot be seen - it is beyond form. Listen, it cannot be heard - it is beyond sound. Grasp, it cannot be held - it is intangible. These three are indefinable; Therefore they are joined in one. From above it is not bright; From below it is not dark: An unbroken thread beyond description. It returns to nothingness. The form of the formless, The image of the imageless, It is called indefinable and beyond imagination. Stand before it and there is no beginning. Follow it and there is no end. Stay with the ancient Tao, Move with the present. Knowing the ancient beginning is the essence of Tao.')
+VALUES (6, 14, 'Look, it cannot be seen - it is beyond form. Listen, it cannot be heard - it is beyond sound. Grasp, it cannot be held - it is intangible. These three are indefinable; Therefore they are joined in one. From above it is not bright; From below it is not dark: An unbroken thread beyond description. It returns to nothingness. The form of the formless, The image of the imageless, It is called indefinable and beyond imagination. Stand before it and there is no beginning. Follow it and there is no end. Stay with the ancient Tao, Move with the present. Knowing the ancient beginning is the essence of Tao.')
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, oXX,  'The ancient masters were subtle, mysterious, profound, responsive. The depth of their knowledge is unfathomable. Because it is unfathomable, All we can do is describe their appearance. Watchful, like men crossing a winter stream. Alert, like men aware of danger. Courteous, like visiting guests. Yielding like ice about to melt. Simple, like uncarved blocks of wood. Hollow, like caves. Opaque, like muddy pools. Who can wait quietly while the mud settles? Who can remain still until the moment of action? Observers of the Tao do not seek fulfillment. Not seeking fulfillment, they are not swayed by desire for change.');
+VALUES (6, 15,  'The ancient masters were subtle, mysterious, profound, responsive. The depth of their knowledge is unfathomable. Because it is unfathomable, All we can do is describe their appearance. Watchful, like men crossing a winter stream. Alert, like men aware of danger. Courteous, like visiting guests. Yielding like ice about to melt. Simple, like uncarved blocks of wood. Hollow, like caves. Opaque, like muddy pools. Who can wait quietly while the mud settles? Who can remain still until the moment of action? Observers of the Tao do not seek fulfillment. Not seeking fulfillment, they are not swayed by desire for change.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, pXX,  'Empty yourself of everything. Let the mind become still. The ten thousand things rise and fall while the Self watches their return. They grow and flourish and then return to the source. Returning to the source is stillness, which is the way of nature. The way of nature is unchanging. Knowing constancy is insight. Not knowing constancy leads to disaster. Knowing constancy, the mind is open. With an open mind, you will be openhearted. Being openhearted, you will act royally. Being royal, you will attain the divine. Being divine, you will be at one with the Tao. Being at one with the Tao is eternal. And though the body dies, the Tao will never pass away.');
+VALUES (6, 16,  'Empty yourself of everything. Let the mind become still. The ten thousand things rise and fall while the Self watches their return. They grow and flourish and then return to the source. Returning to the source is stillness, which is the way of nature. The way of nature is unchanging. Knowing constancy is insight. Not knowing constancy leads to disaster. Knowing constancy, the mind is open. With an open mind, you will be openhearted. Being openhearted, you will act royally. Being royal, you will attain the divine. Being divine, you will be at one with the Tao. Being at one with the Tao is eternal. And though the body dies, the Tao will never pass away.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, qXX,  'The very highest if barely known. Then comes that which people know and love. Then that which is feared, Then that which is despised. Who does not trust enough will not be trusted. When actions are performed Without unnecessary speech, People say, We did it!');
+VALUES (6, 17,  'The very highest if barely known. Then comes that which people know and love. Then that which is feared, Then that which is despised. Who does not trust enough will not be trusted. When actions are performed Without unnecessary speech, People say, We did it!');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, rXX,  'When the great Tao is forgotten, Kindness and morality arise. When wisdom and intelligence are born, The great pretense begins. When there is no peace within the family, Filial piety and devotion arise. When the country is confused and in chaos, Loyal ministers appear.');
+VALUES (6, 18,  'When the great Tao is forgotten, Kindness and morality arise. When wisdom and intelligence are born, The great pretense begins. When there is no peace within the family, Filial piety and devotion arise. When the country is confused and in chaos, Loyal ministers appear.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, sXX,  'Give up sainthood, renounce wisdom, And it will be a hundred times better for everyone. Give up kindness, renounce morality, And men will rediscover filial piety and love. Give up ingenuity, renounce profit, And bandits and thieves will disappear. These three are outward forms alone; they are not sufficient in themselves. It is more important To see the simplicity, To realize ones true nature, To cast off selfishness And temper desire.');
+VALUES (6, 19,  'Give up sainthood, renounce wisdom, And it will be a hundred times better for everyone. Give up kindness, renounce morality, And men will rediscover filial piety and love. Give up ingenuity, renounce profit, And bandits and thieves will disappear. These three are outward forms alone; they are not sufficient in themselves. It is more important To see the simplicity, To realize ones true nature, To cast off selfishness And temper desire.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, tXX,  'Give up learning, and put an end to your troubles. Is there a difference between yes and no? Is there a difference between good and evil? Must I fear what others fear? What nonsense! Other people are contented, enjoying the sacrificial feast of the ox. In spring some go to the park, and climb the terrace, But I alone am drifting, not knowing where I am. Like a newborn babe before it learns to smile, I am alone, without a place to go. Others have more than they need, but I alone have nothing. I am a fool. Oh, yes! I am confused. Others are clear and bright, But I alone am dim and weak. Others are sharp and clever, But I alone am dull and stupid. Oh, I drift like the waves of the sea, Without direction, like the restless wind. Everyone else is busy, But I alone am aimless and depressed. I am different. I am nourished by the great mother.');
+VALUES (6, 20,  'Give up learning, and put an end to your troubles. Is there a difference between yes and no? Is there a difference between good and evil? Must I fear what others fear? What nonsense! Other people are contented, enjoying the sacrificial feast of the ox. In spring some go to the park, and climb the terrace, But I alone am drifting, not knowing where I am. Like a newborn babe before it learns to smile, I am alone, without a place to go. Others have more than they need, but I alone have nothing. I am a fool. Oh, yes! I am confused. Others are clear and bright, But I alone am dim and weak. Others are sharp and clever, But I alone am dull and stupid. Oh, I drift like the waves of the sea, Without direction, like the restless wind. Everyone else is busy, But I alone am aimless and depressed. I am different. I am nourished by the great mother.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, uXX,  'The greatest Virtue is to follow Tao and Tao alone. The Tao is elusive and intangible. Oh, it is intangible and elusive, and yet within is image. Oh, it is elusive and intangible, and yet within is form. Oh, it is dim and dark, and yet within is essence. This essence is very real, and therein lies faith. From the very beginning until now its name has never been forgotten. Thus I perceive the creation. How do I know the ways of creation? Because of this.');
+VALUES (6, 21,  'The greatest Virtue is to follow Tao and Tao alone. The Tao is elusive and intangible. Oh, it is intangible and elusive, and yet within is image. Oh, it is elusive and intangible, and yet within is form. Oh, it is dim and dark, and yet within is essence. This essence is very real, and therein lies faith. From the very beginning until now its name has never been forgotten. Thus I perceive the creation. How do I know the ways of creation? Because of this.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, vXX,  'Yield and overcome; Bend and be straight; Empty and be full; Wear out and be new; Have little and gain; Have much and be confused.\n\nTherefore the wise embrace the one And set an example to all. Not putting on a display, They shine forth. Not justifying themselves, They are distinguished. Not boasting, They receive recognition. Not bragging, They never falter. They do not quarrel, So no one quarrels with them. Therefore the ancients say, "Yield and overcome." Is that an empty saying? Be really whole, And all things will come to you.');
+VALUES (6, 22,  'Yield and overcome; Bend and be straight; Empty and be full; Wear out and be new; Have little and gain; Have much and be confused.\n\nTherefore the wise embrace the one And set an example to all. Not putting on a display, They shine forth. Not justifying themselves, They are distinguished. Not boasting, They receive recognition. Not bragging, They never falter. They do not quarrel, So no one quarrels with them. Therefore the ancients say, "Yield and overcome." Is that an empty saying? Be really whole, And all things will come to you.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, wXX,  'To talk little is natural. High winds do not last all morning. Heavy rain does not last all day. Why is this? Heaven and Earth! If heaven and Earth cannot make things eternal, How is it possible for man? He who follows the Tao Is at one with the Tao. He who is virtuous Experiences Virtue. He who loses the way Is lost. When you are at one with the Tao, The Tao welcomes you. When you are at one with Virtue, The Virtue is always there. When you are at one with loss, The loss is experienced willingly. He who does not trust enough Will not be trusted.');
+VALUES (6, 23,  'To talk little is natural. High winds do not last all morning. Heavy rain does not last all day. Why is this? Heaven and Earth! If heaven and Earth cannot make things eternal, How is it possible for man? He who follows the Tao Is at one with the Tao. He who is virtuous Experiences Virtue. He who loses the way Is lost. When you are at one with the Tao, The Tao welcomes you. When you are at one with Virtue, The Virtue is always there. When you are at one with loss, The loss is experienced willingly. He who does not trust enough Will not be trusted.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, xXX,  'He who stands on tiptoe is not steady. He who strides cannot maintain the pace. He who makes a show is not enlightened. He who is self-righteous is not respected. He who boasts achieves nothing. He who brags will not endure. According to followers of the Tao, These are extra food and unnecessary luggage. They do not bring happiness. Therefore followers of the Tao avoid them.');
+VALUES (6, 24,  'He who stands on tiptoe is not steady. He who strides cannot maintain the pace. He who makes a show is not enlightened. He who is self-righteous is not respected. He who boasts achieves nothing. He who brags will not endure. According to followers of the Tao, These are extra food and unnecessary luggage. They do not bring happiness. Therefore followers of the Tao avoid them.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, yXX,  'Something mysteriously formed,\nBorn before heaven and Earth. In the silence and the void, Standing alone and unchanging, Ever present and in motion. Perhaps it is the mother of ten thousand things. I do not know its name Call it Tao. For lack of a better word, I call it great. Being great, it flows. Having gone far, it returns. Therefore, "Tao is great; Heaven is great; Earth is great; The king is also great." These are the four great powers of the universe, And the king is one of them. Man follows Earth. Earth follows heaven. Heaven follows the Tao. Tao follows what is natural.');
+VALUES (6, 25,  'Something mysteriously formed,\nBorn before heaven and Earth. In the silence and the void, Standing alone and unchanging, Ever present and in motion. Perhaps it is the mother of ten thousand things. I do not know its name Call it Tao. For lack of a better word, I call it great. Being great, it flows. Having gone far, it returns. Therefore, "Tao is great; Heaven is great; Earth is great; The king is also great." These are the four great powers of the universe, And the king is one of them. Man follows Earth. Earth follows heaven. Heaven follows the Tao. Tao follows what is natural.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, zXX,  'The heavy is the root of the light. The still is the master of unrest. Therefore the sage, traveling all day, Does not lose sight of his baggage. Though there are beautiful things to be seen, He remains unattached and calm. Why should the lord of ten thousand chariots act lightly in public? To be light is to lose ones root. To be restless is to lose ones control.');
+VALUES (6, 26,  'The heavy is the root of the light. The still is the master of unrest. Therefore the sage, traveling all day, Does not lose sight of his baggage. Though there are beautiful things to be seen, He remains unattached and calm. Why should the lord of ten thousand chariots act lightly in public? To be light is to lose ones root. To be restless is to lose ones control.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, aaXX,  'A good walker leaves no tracks; A good speaker makes no slips; A good reckoner needs no tally. A good door needs no lock, Yet no one can open it. Good binding requires no knots, Yet no one can loosen it. Therefore the sage takes care of all men And abandons no one. He takes care of all things And abandons nothing. This is called "following the light." What is a good man? A teacher of a bad man. What is a bad man? A good mans charge. If the teacher is not respected, And the student not cared for, Confusion will arise, however clever one is. This is the crux of mystery.');
+VALUES (6, 27,  'A good walker leaves no tracks; A good speaker makes no slips; A good reckoner needs no tally. A good door needs no lock, Yet no one can open it. Good binding requires no knots, Yet no one can loosen it. Therefore the sage takes care of all men And abandons no one. He takes care of all things And abandons nothing. This is called "following the light." What is a good man? A teacher of a bad man. What is a bad man? A good mans charge. If the teacher is not respected, And the student not cared for, Confusion will arise, however clever one is. This is the crux of mystery.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, bbXX,  'Know the strength of man, But keep a womans care! Be the stream of the universe! Being the stream of the universe, Ever true and unswerving, Become as a little child once more. Know the white, But keep the black! Be an example to the world! Being an example to the world, Ever true and unwavering, Return to the infinite. Know honor, Yet keep humility. Be the valley of the universe! Being the valley of the universe, Ever true and resourceful, Return to the state of the uncarved block. When the block is carved, it becomes useful. When the sage uses it, he becomes the ruler. Thus, A great tailor cuts little. ');
+VALUES (6, 28,  'Know the strength of man, But keep a womans care! Be the stream of the universe! Being the stream of the universe, Ever true and unswerving, Become as a little child once more. Know the white, But keep the black! Be an example to the world! Being an example to the world, Ever true and unwavering, Return to the infinite. Know honor, Yet keep humility. Be the valley of the universe! Being the valley of the universe, Ever true and resourceful, Return to the state of the uncarved block. When the block is carved, it becomes useful. When the sage uses it, he becomes the ruler. Thus, A great tailor cuts little. ');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, ccXX,  'Do you think you can take over the universe and improve it? I do not believe it can be done. The universe is sacred. You cannot improve it. If you try to change it, you will ruin it. If you try to hold it, you will lose it. So sometimes things are ahead and sometimes they are behind; Sometimes breathing is hard, sometimes it comes easily; Sometimes there is strength and sometimes weakness; Sometimes one is up and sometimes down. Therefore the sage avoids extremes, excesses, and complacency.');
+VALUES (6, 29,  'Do you think you can take over the universe and improve it? I do not believe it can be done. The universe is sacred. You cannot improve it. If you try to change it, you will ruin it. If you try to hold it, you will lose it. So sometimes things are ahead and sometimes they are behind; Sometimes breathing is hard, sometimes it comes easily; Sometimes there is strength and sometimes weakness; Sometimes one is up and sometimes down. Therefore the sage avoids extremes, excesses, and complacency.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, ddXX,  'Whenever you advise a ruler in the way of Tao, Counsel him not to use force to conquer the universe. For this would only cause resistance. Thorn bushes spring up wherever the army has passed. Lean years follow in the wake of a great war. Just do what needs to be done. Never take advantage of power. Achieve results, But never glory in them.\nAchieve results, But never boast. Achieve results, But never be proud. Achieve results, Because this is the natural way. Achieve results, But not through violence. Force is followed by loss of strength. This is not the way of Tao. That which goes against the Tao comes to an early end.');
+VALUES (6, 30,  'Whenever you advise a ruler in the way of Tao, Counsel him not to use force to conquer the universe. For this would only cause resistance. Thorn bushes spring up wherever the army has passed. Lean years follow in the wake of a great war. Just do what needs to be done. Never take advantage of power. Achieve results, But never glory in them.\nAchieve results, But never boast. Achieve results, But never be proud. Achieve results, Because this is the natural way. Achieve results, But not through violence. Force is followed by loss of strength. This is not the way of Tao. That which goes against the Tao comes to an early end.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, eeXX,  'Good weapons are instruments of fear; all creatures hate them. Therefore followers of Tao never use them. The wise man prefers the left. The man of war prefers the right. Weapons are instruments of fear; they are not a wise mans tools. He uses them only when he has no choice. Peace and quiet are dear to his heart, And victory no cause for rejoicing. If you rejoice in victory, then you delight in killing; If you delight in killing, you cannot fulfill yourself. On happy occasions precedence is given to the left, On sad occasions to the right. In the army the general stands on the left, The commander-in-chief on the right. This means that war is conducted like a funeral. When many people are being killed, They should be mourned in heartfelt sorrow. That is why a victory must be observed like a funeral.');
+VALUES (6, 31,  'Good weapons are instruments of fear; all creatures hate them. Therefore followers of Tao never use them. The wise man prefers the left. The man of war prefers the right. Weapons are instruments of fear; they are not a wise mans tools. He uses them only when he has no choice. Peace and quiet are dear to his heart, And victory no cause for rejoicing. If you rejoice in victory, then you delight in killing; If you delight in killing, you cannot fulfill yourself. On happy occasions precedence is given to the left, On sad occasions to the right. In the army the general stands on the left, The commander-in-chief on the right. This means that war is conducted like a funeral. When many people are being killed, They should be mourned in heartfelt sorrow. That is why a victory must be observed like a funeral.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, ffXX,  'The Tao is forever undefined. Small though it is in the unformed state, it cannot be grasped. If kings and lords could harness it, The ten thousand things would come together And gentle rain fall. Men would need no more instruction and all things would take their course. Once the whole is divided, the parts need names. There are already enough names. One must know when to stop. Knowing when to stop averts trouble. Tao in the world is like a river flowing home to the sea.');
+VALUES (6, 32,  'The Tao is forever undefined. Small though it is in the unformed state, it cannot be grasped. If kings and lords could harness it, The ten thousand things would come together And gentle rain fall. Men would need no more instruction and all things would take their course. Once the whole is divided, the parts need names. There are already enough names. One must know when to stop. Knowing when to stop averts trouble. Tao in the world is like a river flowing home to the sea.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, ggXX,  'Knowing others is wisdom; Knowing the self is enlightenment. Mastering others requires force; Mastering the self needs strength. He who knows he has enough is rich. Perseverance is a sign of willpower. He who stays where he is endures. To die but not to perish is to be eternally present.');
+VALUES (6, 33,  'Knowing others is wisdom; Knowing the self is enlightenment. Mastering others requires force; Mastering the self needs strength. He who knows he has enough is rich. Perseverance is a sign of willpower. He who stays where he is endures. To die but not to perish is to be eternally present.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, hhXX,  'The great Tao flows everywhere, both to the left and to the right. The ten thousand things depend upon it; it holds nothing back. It fulfills its purpose silently and makes no claim. It nourishes the ten thousand things, And yet is not their lord. It has no aim; it is very small. The ten thousand things return to it, Yet it is not their lord. It is very great. It does not show greatness, And is therefore truly great.');
+VALUES (6, 34,  'The great Tao flows everywhere, both to the left and to the right. The ten thousand things depend upon it; it holds nothing back. It fulfills its purpose silently and makes no claim. It nourishes the ten thousand things, And yet is not their lord. It has no aim; it is very small. The ten thousand things return to it, Yet it is not their lord. It is very great. It does not show greatness, And is therefore truly great.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, iiXX,  'All men will come to him who keeps to the one, For there lie rest and happiness and peace. Passersby may stop for music and good food, But a description of the Tao Seems without substance or flavor. It cannot be seen, it cannot be heard, And yet it cannot be exhausted.');
+VALUES (6, 35,  'All men will come to him who keeps to the one, For there lie rest and happiness and peace. Passersby may stop for music and good food, But a description of the Tao Seems without substance or flavor. It cannot be seen, it cannot be heard, And yet it cannot be exhausted.');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, jjXX,  '');
+VALUES (6, 36,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, kkXX,  '');
+VALUES (6, 37,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, llXX,  '');
+VALUES (6, 38,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, mmXX,  '');
+VALUES (6, 39,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, nnXX,  '');
+VALUES (6, 40,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, ooXX,  '');
+VALUES (6, 41,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, ppXX,  '');
+VALUES (6, 42,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, qqXX,  '');
+VALUES (6, 43,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, rrXX,  '');
+VALUES (6, 44,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, ssXX,  '');
+VALUES (6, 45,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, ttXX,  '');
+VALUES (6, 46,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, uuXX,  '');
+VALUES (6, 47,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, vvXX,  '');
+VALUES (6, 48,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, wwXX,  '');
+VALUES (6, 49,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, xxXX,  '');
+VALUES (6, 50,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, yyXX,  '');
+VALUES (6, 51,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, zzXX,  '');
+VALUES (6, 52,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, aaaXX,  '');
+VALUES (6, 53,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, bbbXX,  '');
+VALUES (6, 54,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, cccXX,  '');
+VALUES (6, 55,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, dddXX,  '');
+VALUES (6, 56,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, eeeXX,  '');
+VALUES (6, 57,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, fffXX,  '');
+VALUES (6, 58,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, gggXX,  '');
+VALUES (6, 59,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, hhhXX,  '');
+VALUES (6, 60,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, iiiXX,  '');
+VALUES (6, 61,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, jjjXX,  '');
+VALUES (6, 62,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, kkkXX,  '');
+VALUES (6, 63,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, lllXX,  '');
+VALUES (6, 64,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, mmmXX,  '');
+VALUES (6, 65,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, nnnXX,  '');
+VALUES (6, 66,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, oooXX,  '');
+VALUES (6, 67,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, pppXX,  '');
+VALUES (6, 68,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, qqqXX,  '');
+VALUES (6, 69,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, rrrXX,  '');
+VALUES (6, 70,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, sssXX,  '');
+VALUES (6, 71,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, tttXX,  '');
+VALUES (6, 72,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, uuuXX,  '');
+VALUES (6, 73,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, vvvXX,  '');
+VALUES (6, 74,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, wwwXX,  '');
+VALUES (6, 75,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, xxxXX,  '');
+VALUES (6, 76,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, yyyXX,  '');
+VALUES (6, 77,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, zzzXX,  '');
+VALUES (6, 78,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, aaaaXX,  '');
+VALUES (6, 79,  '');
 INSERT INTO chapter_text (text_id, chapter, chapter_text)
-VALUES (6, bbbbXX,  '');
-
+VALUES (6, 80,  '');
+INSERT INTO chapter_text (text_id, chapter, chapter_text)
+VALUES (6, 81,  '');
 
 
 
